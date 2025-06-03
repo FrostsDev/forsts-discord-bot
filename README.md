@@ -2,6 +2,7 @@
 # How to get started:
 INSTALL DEPENDINCES: 
 1. Downlaod Node.js from https://nodejs.org/en
+2. 2. check if you have a file called "packages.json" in the foloder with your bot, if yes then your good to go! if no then follow #IF YOU HAVE A ERROR OR IT CRASHES THEN INSTALL THESE DEPENDINCES:
 # IF YOU HAVE A ERROR OR IT CRASHES THEN INSTALL THESE DEPENDINCES:
 1. open the folder where your bot files are
 2. click the file directory at the top
