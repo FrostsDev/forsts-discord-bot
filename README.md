@@ -14,6 +14,6 @@ Open the foler you where sent with your bot files
 then click "start bot"
 then type 1 and press enter
 🎉CONGRATES YOUR BOT IS WORKING🎉
-# Need a bot? 
+# 🤖Need a bot?
 JOIN MY SERVER!
 https://discord.gg/yMnMAAaF8d
