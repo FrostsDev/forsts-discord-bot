@@ -2,7 +2,7 @@
 # How to get started:
 INSTALL DEPENDINCES: 
 1. Downlaod Node.js from https://nodejs.org/en
-#IF YOU HAVE A ERROR OR IT CRASHES THEN INSTALL THESE DEPENDINCES:
+# IF YOU HAVE A ERROR OR IT CRASHES THEN INSTALL THESE DEPENDINCES:
 1. open the folder where your bot files are
 2. click the file directory at the top
 3. and delete the text and type cmd and press enter
