@@ -10,7 +10,7 @@ INSTALL DEPENDINCES:
 4. then type ```npm install discord.js```
 5. then type ```npm install express```
 # After Installing Dependinces
-Open the foler you where sent with your bot files
+Open the folder where your bot is stored, and click the start-bot.bat file
 then click "start bot"
 then type 1 and press enter
 🎉CONGRATES YOUR BOT IS WORKING🎉
